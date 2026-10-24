@@ -8,4 +8,4 @@ permalink: /
 
 Un diario fotografico di viaggio.
 
-[Leggi il diario →]({{ "/polinesia/" | relative_url }})
+[Leggi il diario →]({{ "it/polinesia/" | relative_url }})

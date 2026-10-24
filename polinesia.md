@@ -41,7 +41,12 @@ Aspettiamo ~20 min alla fila dei taxi, arrivare in centro costa ~30 euro.
 *(Accoglienza all'aereoporto di Tahiti)*
 
 
-Passiamo a Tahiti solo la prima notte, la nostra prima tappa 
+Ci appoggiamo a Tahiti solo per la prima notte, la nostra prima vera tappa è l'isola di Huahine, che raggiungeremo in traghetto all'alba del giorno dopo. 
+A primo impatto Tahiti, di sera, sembra un posto piuttosto inanimato. La nostra impressione cambierà completatmente dopo aver visitato le isole più piccole. 
+
+
+
+
 
 ## Huahine
 
@@ -111,7 +116,9 @@ Cena allo Yacht club. Ottimo poisson cru, circa 23 euro.
 
 (La maggior parte dei food truck erano chiusi o non avevano pesce fresco).
 
-
+> _**NOTA:**  la vita sulle isole segue i ritmi del sole (alba alle 6am, tramonto alle 6pm, con un crepuscolo molto breve). Non è raro trovare un supermercato aperto alle 6 o anche alle 5 di mattina, ma la maggior parte delle attività sarà chiusa dopo le 18. Potrebbe essere difficile cenare dopo le 21._
+>
+> 
 ![Fotografia 7 del diario di viaggio]({{ "/assets/images/photo-07.jpg" | relative_url }})
 
 

@@ -1,0 +1,17 @@
+media:
+  input: assets/images
+  output: /assets/images
+content:
+  - name: diaries
+    label: Diari e isole
+    type: collection
+    path: .
+    view:
+      fields: [title]
+    fields:
+      - name: title
+        label: Titolo
+        type: string
+      - name: body
+        label: Testo
+        type: rich-text

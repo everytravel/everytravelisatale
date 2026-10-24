@@ -1,0 +1,8 @@
+title: Diari di viaggio
+description: Viaggi, luoghi e fotografie
+markdown: kramdown
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true

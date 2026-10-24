@@ -130,9 +130,9 @@ Alcuni pannelli descrivono la storia dei popoli polinesiani, alcuni esempi di ca
 
 Di fronte al museo (200m a W) inizia un breve sentiero che sale sulla collina. Ci sono diversi marae. Il sentiero termina con un bel viewpoint. Circa 20 min per arrivarci al netto delle soste foto. Pianta di golden mango all'inizio del percorso. L'area è piena di tane di granchio violinista.
 
-| ![Fotografia 9 del diario di viaggio]({{ "/assets/images/photo-09.jpg" | relative_url }}) | 
-|:--:| 
-| *(Vista dal Viewpoint)* |
+![Fotografia 9 del diario di viaggio]({{ "/assets/images/photo-09.jpg" | relative_url }}) 
+
+*(Vista dal Viewpoint)*
 
 
 

@@ -170,7 +170,7 @@ Torniamo all'alloggio e la gestora dell'alloggio ci approccia per risolvere la q
 Soluzione, per una small fee. La gestora prende in mano la situazione, fa da tramite e traduttrice tra noi e la noleggiatrice. C'è  il problema che non riusciamo a fare benzina (benzinai chiudono alle 18, e aprono alle 5:30) e chiede una fee pulizia perché abbiamo lasciato sabbia in auto.
 
 
-Alla fine possiamo lasciare l'auto all'alloggio e se la verrà a prendere lì, ma si terrà la cauzione (40 euro). Secondo noi esagerato, e ci marcia, ma alla fine accettiamo di chiudere lì la questione. Pronti per partire all'alba alla volta di Raiatea, pensando fosse tutto risolto. Non sarebbe stato l'unico imprevisto
+Alla fine possiamo lasciare l'auto all'alloggio e se la verrà a prendere lì, ma si terrà la cauzione (40 euro). Secondo noi esagerato, e ci marcia, ma alla fine accettiamo di chiudere lì la questione. Pronti per partire all'alba alla volta di Raiatea, pensando fosse tutto risolto. Non sarebbe stato l'unico imprevisto.
 
 
 
@@ -843,7 +843,7 @@ Galleria d'arte Winkler. Una sala che espone e vende opere di artisti locali. A 
 Casa dell'arcivescovo. Complesso chiuso, si può vedere aolo dal cancello.
 
 
-Camminiamo fino al tempio buddista (chiuso, c'è una forte presenza cinese sull'isola). Al ritorno diluvia: prendiamo un bus, c'è una bella atmosfera: musica di Bon Marley e decorazioni a tema reggae. Una ragazza locale si premura di aiutarci a raggiungere la nostra destinazione. Non capiamo bene come chiamare la fermata, alla fine lei urla qualcosa all'autista, il quale ci apre le porte nel mezzo della carreggiata, nel traffico.
+Camminiamo fino al tempio buddista (chiuso, c'è una forte presenza cinese sull'isola). Al ritorno diluvia: prendiamo un bus, c'è una bella atmosfera: musica di Bob Marley e decorazioni a tema Halloween. Una ragazza locale si premura di aiutarci a raggiungere la nostra destinazione. Non capiamo bene come chiamare la fermata, alla fine lei urla qualcosa all'autista, il quale ci apre le porte nel mezzo della carreggiata, nel traffico.
 
 
 Ore 17, di corsa a prendere gli ultimi souvenir perché sta già chiudendo tutto.

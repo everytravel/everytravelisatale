@@ -35,7 +35,7 @@ Arrivo a Tahiti 19:30. All'arrivo in aereoporto siamo accolti da musica e danze 
 L'aereoporto è piccolo, e preleviamo all'ATM davanti l'aereoporto (il primo di una lunga serie). 
 Aspettiamo ~20 min alla fila dei taxi, arrivare in centro costa ~30 euro.
 
-> **_NOTA:_**  molte attività in Polinesia francese accettano solo contanti. I prelievi sono tuttavia senza costi, almeno per carte associate a conti europei, e solitamente c'è almeno un ATM in ogni centro, su ogni isola. 
+> _**NOTA:**  molte attività in Polinesia francese accettano solo contanti. I prelievi sono tuttavia senza costi, almeno per carte associate a conti europei, e solitamente c'è almeno un ATM in ogni centro, su ogni isola._ 
 
 ![Fotografia 2 del diario di viaggio]({{ "/assets/images/photo-02.jpg" | relative_url }})
 

@@ -26,6 +26,7 @@ Volo ore 13:20
 
 
 ![Fotografia 1 del diario di viaggio]({{ "/assets/images/photo-01.jpg" | relative_url }})
+
 *(Ingresso China Town)*
 
 
@@ -36,8 +37,11 @@ Aspettiamo ~20 min alla fila dei taxi, arrivare in centro costa ~30 euro.
 > _**NOTA:**  molte attività in Polinesia francese accettano solo contanti. I prelievi sono tuttavia senza costi, almeno per carte associate a conti europei, e solitamente c'è almeno un ATM in ogni centro, su ogni isola._ 
 
 ![Fotografia 2 del diario di viaggio]({{ "/assets/images/photo-02.jpg" | relative_url }})
+
 *(Accoglienza all'aereoporto di Tahiti)*
 
+
+Passiamo a Tahiti solo la prima notte, la nostra prima tappa 
 
 ## Huahine
 

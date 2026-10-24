@@ -1,9 +1,13 @@
 title: Diari di viaggio
 description: Viaggi, luoghi e fotografie
+
+url: "https://everytravel.github.io"
+baseurl: "/everytravelisatale"
+
 markdown: kramdown
 plugins:
   - jekyll-relative-links
+
 relative_links:
   enabled: true
   collections: true
-baseurl: "/REPOSITORY"

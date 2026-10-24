@@ -158,7 +158,7 @@ Spiaggia Huahine Iti, ore 15:30 Si raggiunge con un percorso di 20-30 min. Spiag
 Antefatto: Il giorno della partenza riceviamo la comunicazione che il traghetto Apetahi express non coprirà la tratta Huahine - Raiatea per cause tecniche; più avanti capiremo che si tratta di maltempo.
 
 
-Cosa facciamo: non ci arrendiamo, 3 passiamo i giorni seguenti a cercare una connessione privata. Alla fine riusciamo a contattare un barcaiolo - Jean Pierre - che è disponibile ad accompagnarci, al prezzo di 10k XPF. In seguito scopriamo che è il vicino di casa del nostro alloggio.
+Cosa facciamo: non ci arrendiamo, passiamo i giorni seguenti a cercare una connessione privata. Alla fine riusciamo a contattare un barcaiolo - Jean Pierre - che è disponibile ad accompagnarci, al prezzo di 15000 XPF. In seguito scopriamo che è il vicino di casa del nostro alloggio.
 
 
 L'accordo finale e la questione dell'auto. Riusciamo ad avere una conferma finale sul transfer il primo poneriggio del giorno prima. La comunicazione con JP è saltuaria, e il suo inglese stentato, ma fortunatamente lo parla abbastanza da organizzarci. Finalmente, ci dà appuntamento alle 5:30 al molo. Ci rendiamo conto che non riusciremo a consegnare l'auto a noleggio.

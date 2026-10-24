@@ -7,40 +7,13 @@ permalink: /it/polinesia/
 Un viaggio tra Huahine, Raiatea, Bora Bora, Moorea e Tahiti.
 
 ## Indice
-
-
-- [Partenza e arrivo](#partenza)
-  - [3/10](#giorno-3-ottobre)
-- [Huahine](#huahine)
-  - [4/10](#giorno-4-ottobre)
-  - [5/10](#giorno-5-ottobre)
-- [Raiatea](#raiatea)
-  - [6/10](#giorno-6-ottobre)
-  - [7/10](#giorno-7-ottobre)
-  - [8/10](#giorno-8-ottobre)
-- [Bora Bora](#bora-bora)
-  - [9/10](#giorno-9-ottobre)
-  - [10/10](#giorno-10-ottobre)
-  - [11/10](#giorno-11-ottobre)
-  - [12/10](#giorno-12-ottobre)
-  - [13/10](#giorno-13-ottobre)
-- [Moorea](#moorea)
-  - [14/10](#giorno-14-ottobre)
-  - [15/10](#giorno-15-ottobre)
-  - [16/10](#giorno-16-ottobre)
-- [Tahiti e ritorno](#tahiti)
-  - [17/10](#giorno-17-ottobre)
-  - [18/10](#giorno-18-ottobre)
-  - [20/10](#giorno-20-ottobre)
-
+* TOC
+{:toc}
 ---
 
-<a id="partenza"></a>
 
 ## Partenza e arrivo
 
-
-<a id="giorno-3-ottobre"></a>
 
 ### 3/10
 
@@ -66,12 +39,9 @@ Fila taxi c.ca 20 min c.ca 30 euro.
 ![Fotografia 2 del diario di viaggio]({{ "/assets/images/photo-02.jpg" | relative_url }})
 
 
-<a id="huahine"></a>
 
 ## Huahine
 
-
-<a id="giorno-4-ottobre"></a>
 
 ### 4/10
 
@@ -145,8 +115,6 @@ Cena allo Yacht club. Ottimo poisson cru, circa 23 euro.
 *(Poisson cru allo Yacht club di Huahine).*
 
 
-<a id="giorno-5-ottobre"></a>
-
 ### 5/10
 
 
@@ -204,12 +172,10 @@ Soluzione, per una small fee. La gestora prende in mano la situazione, fa da tra
 Alla fine possiamo lasciare l'auto all'alloggio e se la verrà a prendere lì, ma si terrà la cauzione (40 euro). Secondo noi esagerato, e ci marcia, ma alla fine accettiamo di chiudere lì la questione. Pronti per partire all'alba alla volta di Raiatea, pensando fosse tutto risolto. Non sarebbe stato l'unico imprevisto
 
 
-<a id="raiatea"></a>
 
 ## Raiatea
 
 
-<a id="giorno-6-ottobre"></a>
 
 ### 6/10
 
@@ -283,7 +249,6 @@ Vasta area con diversi edifici con funzioni politiche e religiose. Da qui partir
 Check in, spesa.
 
 
-<a id="giorno-7-ottobre"></a>
 
 ### 7/10
 
@@ -309,7 +274,6 @@ Piscine pubbliche di mare. Fuori dal centro c'è un'area di molo attrezzata come
 *(Arcobaleno dall'area delle piscine)*
 
 
-<a id="giorno-8-ottobre"></a>
 
 ### 8/10
 
@@ -371,12 +335,8 @@ Partenza ore 17.
 Serata a casa.
 
 
-<a id="bora-bora"></a>
-
 ## Bora Bora
 
-
-<a id="giorno-9-ottobre"></a>
 
 ### 9/10
 
@@ -417,8 +377,6 @@ Gelato da Iaorana. Non il massimo. Si trova in barattolo in tutti i supermercati
 *(Local suonano)*
 
 
-<a id="giorno-10-ottobre"></a>
-
 ### 10/10
 
 
@@ -452,8 +410,6 @@ Passiamo la serata nella nostra villa con vista.
 *(Villa a Bora Bora)*
 
 
-<a id="giorno-11-ottobre"></a>
-
 ### 11/10
 
 
@@ -486,8 +442,6 @@ Ore 21. C'è una sorta di festa di paese nel grande padiglione pubblico di front
 
 *(Bora Bora beach club)*
 
-
-<a id="giorno-12-ottobre"></a>
 
 ### 12/10
 
@@ -540,8 +494,6 @@ La guida nutre anche noi, ci offre bananine e serve un pomelo che mangiamo sdrai
 *(Lagoon tour)*
 
 
-<a id="giorno-13-ottobre"></a>
-
 ### 13/10
 
 
@@ -575,12 +527,10 @@ All'aeroporto invece non ci sono controlli di sicurezza. Alle 19:30 prendiamo un
 *(Aereo del volo per Tahiti)*
 
 
-<a id="moorea"></a>
 
 ## Moorea
 
 
-<a id="giorno-14-ottobre"></a>
 
 ### 14/10
 
@@ -627,7 +577,6 @@ Riscendiamo dalla valle di Opunohu, e facciamo check in al Mooz Lodge, due stanz
 *(Scorci dalla strada dalla valle di Opunohu)*
 
 
-<a id="giorno-15-ottobre"></a>
 
 ### 15/10
 
@@ -659,7 +608,6 @@ Cena: pizza da Happyz. Servizio molto gentile e buona pizza.
 *(Pizza da Happyz)*
 
 
-<a id="giorno-16-ottobre"></a>
 
 ### 16/10
 
@@ -742,12 +690,10 @@ L'appartamento si trova nella zona di Taapuna. So trova in alto, in cima a una r
 Usciamo in centro e restiamo fino circa mezzanotte (notte fonda per gli standard locali) in un game pub molto vivo. Noi giochiamo a Catan, ma l'attrazione principale della serata sono dei tesissimi tavoli da poker, con diversi spettatori.
 
 
-<a id="tahiti"></a>
 
 ## Tahiti e ritorno
 
 
-<a id="giorno-17-ottobre"></a>
 
 ### 17/10
 
@@ -803,7 +749,6 @@ Tornare indietro alla zona di Papeete richiede circa un'ora e 45 di guida.
 Ceniamo da Roulotte Anita, frequentatissimo locale con tavoli sul mare in una zona con diversi food truck nei pressi di Puna'aui'a.
 
 
-<a id="giorno-18-ottobre"></a>
 
 ### 18/10
 
@@ -865,7 +810,6 @@ Per il resto il fondale è fatto di grossi sassi neri, non il massimo per un bag
 Dopo cena cerchiamo un bar a Tahiti, ma non c'è molto. Optiamo per Baroom, sopra Les 3 Brasseurs. È domenica sera e non c'è nessuno, buoni i cocktail a tema di imgredienti locali (mango, ibisco, etc) ma costosi e non particolarmente intensi.
 
 
-<a id="giorno-20-ottobre"></a>
 
 ### 20/10
 

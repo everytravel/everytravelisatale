@@ -6,6 +6,6 @@ permalink: /
 
 ## Polinesia Francese
 
-Un diario fotografico di viaggio.
+Un diario fotografico di viaggio tra le Isole della Società.
 
-[Leggi il diario →]({{ "/it/polinesia/" | relative_url }})
+[**Leggi il diario →**]({{ "/it/polinesia/" | relative_url }})

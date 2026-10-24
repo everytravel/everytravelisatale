@@ -18,11 +18,11 @@ Un viaggio tra Huahine, Raiatea, Bora Bora, Moorea e Tahiti.
 
 ### 3/10
 
+Il modo più rapido per raggiungere la Polinesia Francese dall'Europa è facendo scalo a San Francisco. Facciamo iniziare il nostro viaggio da qui. 
+Ci fermiamo per una notte, questo ci aiuta ad abituarci al fuso orario (la Polinesia Francese è a -12 ore rispetto all'Europa centrale con orario estivo).
+Non c'è molto tempo di visitare la città, restiamo fuori per una cena e un drink vicino China Town. 
 
-Partenza SF ore 10:30.
-
-
-Volo ore 13:20
+Lasciamo la città per l'aereoporto alle ore 10:30. Il volo per Tahiti è alle ore 13:20. 
 
 
 ![Fotografia 1 del diario di viaggio]({{ "/assets/images/photo-01.jpg" | relative_url }})
@@ -30,8 +30,8 @@ Volo ore 13:20
 *(Ingresso China Town)*
 
 
-Arrivo a Tahiti 19:30. All'arrivo in aereoporto siamo accolti da musica e danze locali dal vivo, che si esibiscono su un piccolo palco posizionato vicino al gate. Un po' turistico, ma piacevole. 
-L'aereoporto è piccolo, e preleviamo all'ATM davanti l'aereoporto (il primo di una lunga serie). 
+Arriviamo a Tahiti alle 19:30. All'arrivo in aereoporto siamo accolti da musica e danze locali dal vivo, gli artisti si esibiscono su un piccolo palco posizionato vicino al gate. Un po' turistico, ma piacevole. 
+L'aereoporto è piccolo, e preleviamo (il primo di una lunga serie) all'ATM all'ingresso l'aereoporto. 
 Aspettiamo ~20 min alla fila dei taxi, arrivare in centro costa ~30 euro.
 
 > _**NOTA:**  molte attività in Polinesia francese accettano solo contanti. I prelievi sono tuttavia senza costi, almeno per carte associate a conti europei, e solitamente c'è almeno un ATM in ogni centro, su ogni isola._ 
@@ -41,10 +41,8 @@ Aspettiamo ~20 min alla fila dei taxi, arrivare in centro costa ~30 euro.
 *(Accoglienza all'aereoporto di Tahiti)*
 
 
-Ci appoggiamo a Tahiti solo per la prima notte, la nostra prima vera tappa è l'isola di Huahine, che raggiungeremo in traghetto all'alba del giorno dopo. 
-A primo impatto Tahiti, di sera, sembra un posto piuttosto inanimato. La nostra impressione cambierà completatmente dopo aver visitato le isole più piccole. 
-
-
+Ci appoggiamo a Tahiti solo per la prima notte, la nostra prima vera tappa è l'isola di Huahine, che raggiungeremo in traghetto la mattina seguente. 
+A primo impatto, Tahiti di sera sembra un posto piuttosto inanimato. La nostra impressione cambierà completatmente alla fine del viaggio, quando torneremo a Tahiti dopo aver visitato isole più piccole. 
 
 
 

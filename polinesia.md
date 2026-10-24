@@ -9,6 +9,7 @@ Un viaggio tra Huahine, Raiatea, Bora Bora, Moorea e Tahiti.
 ## Indice
 * TOC
 {:toc}
+
 ---
 
 
@@ -274,6 +275,7 @@ Piscine pubbliche di mare. Fuori dal centro c'è un'area di molo attrezzata come
 *(Arcobaleno dall'area delle piscine)*
 
 
+## Taha'a
 
 ### 8/10
 

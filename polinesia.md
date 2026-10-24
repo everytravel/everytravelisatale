@@ -876,4 +876,4 @@ Scalo a San Francisco: anche per un connecting flight occorre fare passare per i
 -museo etnografico: chiuso il lunedì, che era il giorno dedicato alla visita di Papeete.
 
 
-Maururu!
+Mauruuru!

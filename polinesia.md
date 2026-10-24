@@ -31,14 +31,15 @@ Volo ore 13:20
 *(Ingresso China Town)*
 
 
-Arrivo Tahiti 19:30
+Arrivo a Tahiti 19:30. All'arrivo in aereoporto siamo accolti da musica e danze locali dal vivo, che si esibiscono su un piccolo palco posizionato vicino al gate. Un po' turistico, ma piacevole. 
+L'aereoporto è piccolo, e preleviamo all'ATM davanti l'aereoporto (il primo di una lunga serie). 
+Aspettiamo ~20 min alla fila dei taxi, arrivare in centro costa ~30 euro.
 
-
-Fila taxi c.ca 20 min c.ca 30 euro.
-
+> **_NOTA:_**  molte attività in Polinesia francese accettano solo contanti. I prelievi sono tuttavia senza costi, almeno per carte associate a conti europei, e solitamente c'è un ATM in ogni centro, su ogni isola. 
 
 ![Fotografia 2 del diario di viaggio]({{ "/assets/images/photo-02.jpg" | relative_url }})
 
+*(Accoglienza all'aereoporto di Tahiti)*
 
 
 ## Huahine
